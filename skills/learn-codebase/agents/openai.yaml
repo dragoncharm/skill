@@ -1,0 +1,4 @@
+interface:
+  display_name: "学习陌生代码库"
+  short_description: "按学习目标讲解陌生代码库、架构或代码单元，按需提供阅读路线"
+  default_prompt: "Use $learn-codebase to explain this unfamiliar project or code unit at the depth needed for my learning goal."

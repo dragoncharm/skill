@@ -1,0 +1,4 @@
+interface:
+  display_name: "事务单开发流程"
+  short_description: "按研发云开发事务单分档出方案，批准后实施、验证并交付收尾草稿"
+  default_prompt: "用 $handle-dev-ticket 为这张研发云开发事务单提出方案，首次批准后在约定范围内完成实施、必要验证和收尾草稿。"
